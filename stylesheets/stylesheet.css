@@ -427,6 +427,7 @@ th {
 }
 
 /* LAYOUT STYLES */
+/* The color is white  */
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 15px;
@@ -454,7 +455,7 @@ header {
   background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
 }
-
+/* Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif */
 header h1 {
   width: 540px;
   margin-top: 0;
